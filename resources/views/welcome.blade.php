@@ -11,7 +11,7 @@
 	<meta name="description" content="Tala Cottages is an Exceptional Corporate Holiday Cottages in Machakos We offer bed and Breakfast services">
 	<meta name="keywords" content="Machakos Hotel, Accomodation">
 	<!-- set your website favicon icon -->
-	<link href="favicon.ico" rel="icon">
+	<link href="{{asset('soon/favicon.jpg')}}" rel="icon">
 
 	<!-- Bootstrap Stylesheets -->
 	<link rel="stylesheet" href="{{asset('soon/css/bootstrap.min.css')}}">
